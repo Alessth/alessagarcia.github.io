@@ -3,7 +3,7 @@ title: "Alessa Garcia Garcia""
 excerpt: "About me"
 author_profile: true
 sitemap: false
-permalink: alessagarcia.github.io/about
+permalink: /about/
 ---
 
 About Me
